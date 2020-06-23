@@ -1,0 +1,2 @@
+# hairetsu
+javaの配列
